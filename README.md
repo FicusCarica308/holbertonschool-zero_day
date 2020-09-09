@@ -1,3 +1,3 @@
 # holbertonschool-zero_day
-* This is my first holberton project Markdown !*
-*this reposittory is used to practice pushing my first comits
+*This is my first holberton project Markdown!*
+*this repository is used for my first holberton project
