@@ -1,0 +1,1 @@
+This project is about learning and utilizing emacs in the virtual machine using the emacs tutorial and resources
