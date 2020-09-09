@@ -1,1 +1,1 @@
-Linux
+*this is a directory for my first project 0x00-vagrant where my answers, codes, and other things are stored*
