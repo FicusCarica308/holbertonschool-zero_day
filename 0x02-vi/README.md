@@ -1,0 +1,1 @@
+This project consists of learning how to navigate the built in UNIX software Vi for editing text
